@@ -1,0 +1,18 @@
+.add_btn {
+  text-align: right;
+}
+
+.container {
+  overflow: auto;
+}
+
+.left-view {
+  font-style: 21px;
+}
+
+p {
+  font-weight: 600;
+}
+p span {
+  font-weight: normal;
+}
